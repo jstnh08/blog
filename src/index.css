@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-avocado-100: oklch(0.53 0.12 118);
+  --background-image-parallax: url(/g.jpg);
+}
